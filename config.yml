@@ -1,0 +1,45 @@
+baseURL: ""
+languageCode: en-us
+title: Daphne Tian
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "💬  Hi there, my name is Daphne"
+    Content: "I'm an aspiring UX/UI Designer and Dev @ the University of British Columbia."
+  socialIcons:
+    - name: github
+      url: "https://github.com/daphnetian"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/daphne-tian/"
+
+  defaultTheme: auto 
+  cover:
+    linkFullImages: false
+
+  ShowToc: true #table of contents
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  hideFooter: true
+  enableEmoji: true
+
+menu:
+  main: 
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 10 
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20 
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: resume
+      name: Resume
+      url: "https://drive.google.com/file/d/12ESpWvO5CeGDhcCSibmp3u47MNBfUJW9/view?usp=sharing"
+      weight: 40  
