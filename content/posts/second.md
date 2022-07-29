@@ -1,7 +1,7 @@
 ---
 title: "🍃 And that's a Wrap on the First Year of University"
 date: 2021-04-20T11:12:04+03:00
-draft: false
+draft: true
 description: A reflection on all things university, everything I learned from academics to moving across the country and starting anew.
 tags: ["university", "growth"]
 ---
